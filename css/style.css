@@ -1,0 +1,12 @@
+.general_block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border: 4px solid rgb(120, 128, 130);
+}
+.block{
+    height: 280px;
+    width: 250px;
+    border: 2px solid rgb(7, 4, 7);
+}
